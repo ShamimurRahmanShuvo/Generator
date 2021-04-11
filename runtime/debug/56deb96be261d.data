@@ -1,0 +1,212 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.12";s:10:"yiiVersion";s:5:"2.0.7";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.7";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.6.12";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:9:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:57:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:57:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-codeception";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:49:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:51:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-faker";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:55:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:51:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-debug";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.2.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:58:"D:\xampp\htdocs\generator\vendor/kartik-v/yii2-krajee-base";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.0.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:51:"D:\xampp\htdocs\generator\vendor/kartik-v/yii2-grid";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/export";s:53:"D:\xampp\htdocs\generator\vendor/kartik-v/yii2-export";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36";s:7:"referer";s:50:"http://localhost/generator/web/index.php?r=rc-cost";s:15:"accept-encoding";s:19:"gzip, deflate, sdch";s:15:"accept-language";s:14:"en-US,en;q=0.8";s:6:"cookie";s:479:"Tawk_5678f68869d23ab53d048e99=vs10.tawk.to:443||0; _ga=GA1.1.811925816.1454846831; _csrf=75e6150a6fd6c96b8b9deb2478aa6c3200d235bcf7794e39068e6d6dc759caf4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22it0nYlSBJ1JYY6hpyf2ASWgL0FDD4Dl4%22%3B%7D; PHPSESSID=f13m69aqcv2u7tjp19dl85hun1; _identity=29843d197870ca5e5df03dc06a02335dc85deeed3143a83902adca799833e201a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A24%3A%22%5B1%2C%2275yhr7drme%22%2C2592000%5D%22%3B%7D";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.6.12";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:10:"Set-Cookie";s:258:"_identity=29843d197870ca5e5df03dc06a02335dc85deeed3143a83902adca799833e201a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A24%3A%22%5B1%2C%2275yhr7drme%22%2C2592000%5D%22%3B%7D; expires=Thu, 07-Apr-2016 11:37:15 GMT; Max-Age=2592000; path=/; httponly";}s:5:"route";s:13:"fc-cost/index";s:6:"action";s:47:"app\controllers\FcCostController::actionIndex()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:42:{s:7:"MIBDIRS";s:24:"D:/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:31:"D:/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36";s:12:"HTTP_REFERER";s:50:"http://localhost/generator/web/index.php?r=rc-cost";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.8";s:11:"HTTP_COOKIE";s:479:"Tawk_5678f68869d23ab53d048e99=vs10.tawk.to:443||0; _ga=GA1.1.811925816.1454846831; _csrf=75e6150a6fd6c96b8b9deb2478aa6c3200d235bcf7794e39068e6d6dc759caf4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22it0nYlSBJ1JYY6hpyf2ASWgL0FDD4Dl4%22%3B%7D; PHPSESSID=f13m69aqcv2u7tjp19dl85hun1; _identity=29843d197870ca5e5df03dc06a02335dc85deeed3143a83902adca799833e201a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A24%3A%22%5B1%2C%2275yhr7drme%22%2C2592000%5D%22%3B%7D";s:4:"PATH";s:2151:"C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;D:\wamp\bin\Yii\;D:\wamp\bin\mongo\bin\;D:\wamp\bin\ffmpeg\bin\;C:\Program Files\TortoiseSVN\bin;D:\wamp\bin\mysql\mysql5.5.8\bin\;D:\wamp\bin\phalcon-devtools-master;C:\Program Files (x86)\Java\jdk1.6.0_26\bin;C:\Program Files (x86)\Java\jre6\bin;D:\wamp\bin\mysql\mysql5.6.12\bin;D:\wamp\bin\phantom;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Yeasin\AppData\Roaming\npm;D:\xampp\php;C:\Program Files (x86)\Bitvise SSH Client;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Skype\Phone\;C:\Users\Yeasin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;D:\wamp\bin\Yii\;D:\wamp\bin\mongo\bin\;D:\wamp\bin\ffmpeg\bin\;C:\Program Files\TortoiseSVN\bin;D:\wamp\bin\mysql\mysql5.5.8\bin\;D:\wamp\bin\phalcon-devtools-master;C:\Program Files (x86)\Java\jdk1.6.0_26\bin;C:\Program Files (x86)\Java\jre6\bin;D:\wamp\bin\mysql\mysql5.6.12\bin;D:\wamp\bin\phantom;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Yeasin\AppData\Roaming\npm;D:\xampp\php;C:\Program Files (x86)\Bitvise SSH Client;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Skype\Phone\;C:\Users\Yeasin\AppData\Roaming\nvm;C:\Program Files\nodejs";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:95:"<address>Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.6.12 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.6.12";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:15:"D:/xampp/htdocs";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:15:"D:/xampp/htdocs";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:39:"D:/xampp/htdocs/generator/web/index.php";s:11:"REMOTE_PORT";s:5:"51705";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:9:"r=fc-cost";s:11:"REQUEST_URI";s:34:"/generator/web/index.php?r=fc-cost";s:11:"SCRIPT_NAME";s:24:"/generator/web/index.php";s:8:"PHP_SELF";s:24:"/generator/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1457437035.9040000438690185546875;s:12:"REQUEST_TIME";i:1457437035;}s:3:"GET";a:1:{s:1:"r";s:7:"fc-cost";}s:4:"POST";a:0:{}s:6:"COOKIE";a:5:{s:29:"Tawk_5678f68869d23ab53d048e99";s:19:"vs10.tawk.to:443||0";s:3:"_ga";s:26:"GA1.1.811925816.1454846831";s:5:"_csrf";s:130:"75e6150a6fd6c96b8b9deb2478aa6c3200d235bcf7794e39068e6d6dc759caf4a:2:{i:0;s:5:"_csrf";i:1;s:32:"it0nYlSBJ1JYY6hpyf2ASWgL0FDD4Dl4";}";s:9:"PHPSESSID";s:26:"f13m69aqcv2u7tjp19dl85hun1";s:9:"_identity";s:126:"29843d197870ca5e5df03dc06a02335dc85deeed3143a83902adca799833e201a:2:{i:0;s:9:"_identity";i:1;s:24:"[1,"75yhr7drme",2592000]";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:1;}}s:3:"log";a:1:{s:8:"messages";a:21:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1457437035.9222609996795654296875;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1457437035.9222609996795654296875;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1457437035.9272611141204833984375;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1457437035.9282610416412353515625;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1457437035.9282610416412353515625;i:4;a:0:{}}i:5;a:5:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1457437035.9292609691619873046875;i:4;a:0:{}}i:6;a:5:{i:0;s:26:"Route requested: 'fc-cost'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1457437035.9292609691619873046875;i:4;a:0:{}}i:7;a:5:{i:0;s:27:"Route to run: fc-cost/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1457437035.932261943817138671875;i:4;a:0:{}}i:8;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1457437035.9362618923187255859375;i:4;a:0:{}}i:9;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95026302337646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:10;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=chickengenerator";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1457437035.95026302337646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:15;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9542629718780517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:18;a:5:{i:0;s:33:"SELECT * FROM `user` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95726299285888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:21;a:5:{i:0;s:63:"Running action: app\controllers\FcCostController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1457437035.9612629413604736328125;i:4;a:0:{}}i:22;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `fc_cost`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9622631072998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fc_cost' AND kcu.table_name = 'fc_cost'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.96426296234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:70:"Rendering view file: D:\xampp\htdocs\generator\views\fc-cost\index.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1457437035.968264102935791015625;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:23:"SELECT * FROM `project`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9722640514373779296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `project`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9732639789581298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'project' AND kcu.table_name = 'project'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:69:"Rendering view file: D:\xampp\htdocs\generator\views\layouts\main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1457437035.97626399993896484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:5795448;s:4:"time";d:0.077003955841064453125;s:8:"messages";a:18:{i:11;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=chickengenerator";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1457437035.95026302337646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:12;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=chickengenerator";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1457437035.9522631168365478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:13;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9522631168365478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:14;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9542629718780517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9542629718780517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:17;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9552628993988037109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:33:"SELECT * FROM `user` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95726299285888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:20;a:5:{i:0;s:33:"SELECT * FROM `user` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95726299285888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:23;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `fc_cost`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9622631072998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `fc_cost`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.96426296234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fc_cost' AND kcu.table_name = 'fc_cost'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.96426296234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fc_cost' AND kcu.table_name = 'fc_cost'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.965262889862060546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:23:"SELECT * FROM `project`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9722640514373779296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:23:"SELECT * FROM `project`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9732639789581298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `project`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9732639789581298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `project`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'project' AND kcu.table_name = 'project'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'project' AND kcu.table_name = 'project'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:16:{i:13;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9522631168365478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:14;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9542629718780517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9542629718780517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:17;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9552628993988037109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:33:"SELECT * FROM `user` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95726299285888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:20;a:5:{i:0;s:33:"SELECT * FROM `user` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.95726299285888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:41:"D:\xampp\htdocs\generator\models\User.php";s:4:"line";i:12;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:23;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `fc_cost`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9622631072998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `fc_cost`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.96426296234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fc_cost' AND kcu.table_name = 'fc_cost'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.96426296234130859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fc_cost' AND kcu.table_name = 'fc_cost'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.965262889862060546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:49;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:23:"SELECT * FROM `project`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9722640514373779296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:23:"SELECT * FROM `project`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9732639789581298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `project`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.9732639789581298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `project`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'project' AND kcu.table_name = 'project'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'project' AND kcu.table_name = 'project'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1457437035.975264072418212890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:49:"D:\xampp\htdocs\generator\views\fc-cost\index.php";s:4:"line";i:41;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:58:"D:\xampp\htdocs\generator\controllers\FcCostController.php";s:4:"line";i:94;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:6:{s:19:"app\assets\AppAsset";a:9:{s:8:"basePath";s:29:"D:/xampp/htdocs/generator/web";s:7:"baseUrl";s:14:"/generator/web";s:3:"css";a:1:{i:0;s:12:"css/site.css";}s:2:"js";a:0:{}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:52:"D:\xampp\htdocs\generator\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:43:"D:\xampp\htdocs\generator\web\assets\77ce7d";s:7:"baseUrl";s:28:"/generator/web/assets/77ce7d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:50:"D:\xampp\htdocs\generator\vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:45:"D:\xampp\htdocs\generator\web\assets\465f8f91";s:7:"baseUrl";s:30:"/generator/web/assets/465f8f91";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:53:"D:\xampp\htdocs\generator\vendor\bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:45:"D:\xampp\htdocs\generator\web\assets\868f6d67";s:7:"baseUrl";s:30:"/generator/web/assets/868f6d67";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:53:"D:\xampp\htdocs\generator\vendor\bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:45:"D:\xampp\htdocs\generator\web\assets\868f6d67";s:7:"baseUrl";s:30:"/generator/web/assets/868f6d67";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:22:"yii\debug\ToolbarAsset";a:9:{s:10:"sourcePath";s:58:"D:\xampp\htdocs\generator\vendor/yiisoft/yii2-debug/assets";s:3:"css";a:1:{i:0;s:11:"toolbar.css";}s:2:"js";a:1:{i:0;s:10:"toolbar.js";}s:8:"basePath";s:45:"D:\xampp\htdocs\generator\web\assets\5d4bef75";s:7:"baseUrl";s:30:"/generator/web/assets/5d4bef75";s:7:"depends";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"56deb96be261d";s:3:"url";s:50:"http://localhost/generator/web/index.php?r=fc-cost";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";i:1457437035;s:10:"statusCode";i:200;s:8:"sqlCount";i:8;s:9:"mailCount";i:0;}}
